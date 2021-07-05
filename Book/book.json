@@ -1,0 +1,82 @@
+{
+  "title": "GitBook空白模板",
+  "language": "zh-hans",
+  "author": "J&W",
+  "links": {
+    "sidebar": {
+      "搜索": "http://cn.bing.com"
+    }
+  },
+  "plugins": [
+    "-search",
+    "-lunr",
+    "-sharing",
+    "-livereload",
+    "sharing-plus",
+    "github",
+    "github-buttons",
+    "search-pro",
+    "donate",
+    "chart",
+    "graph",
+    "puml",
+    "katex",
+    "code",
+    "ace",
+    "mermaid-gb3",
+    "include-csv",
+    "flexible-alerts",
+    "chapter-fold",
+    "anchor-navigation-ex",
+    "theme-comscore",
+    "pageview-count",
+    "tbfed-pagefooter"
+  ],
+  "pluginsConfig": {
+    "anchor-navigation-ex": {
+      "showLevel": false,
+      "showGoTop": true
+    },
+    "donate": {
+      "wechat": "/donate.jpg",
+      "button": "捐赠",
+      "wechatText": "支付宝扫码"
+    },
+    "github-buttons": {
+      "buttons": [{
+        "user": "IndieClub",
+        "repo": "Gitbook-Template",
+        "type": "star",
+        "size": "large"
+      }, {
+        "user": "IndieClub",
+        "type": "follow",
+        "width": "230",
+        "count": false
+      }]
+    },
+    "sharing": {
+      "douban": true,
+      "facebook": true,
+      "google": true,
+      "pocket": true,
+      "qq": true,
+      "qzone": true,
+      "twitter": true,
+      "weibo": true,
+   "all": [
+        "douban", "facebook", "google", "instapaper", "linkedin","twitter", "weibo", 
+        "messenger","qq", "qzone","viber","whatsapp"
+        ]
+    },
+    "github": {
+      "url": "https://github.com/IndieClub/Gitbook-Template"
+    }
+  },
+  "tbfed-pagefooter": {
+    "copyright":"Copyright &copy XXX.com 2021",
+    "modify_label": "该文章修订时间：",
+    "modify_format": "YYYY-MM-DD HH:mm:ss"
+  }
+
+}
