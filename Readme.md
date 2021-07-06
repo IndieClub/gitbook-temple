@@ -63,3 +63,7 @@ npm config set registry https://registry.npm.taobao.org
 
 - [ERLang](https://www.erlang.org/) 听其他游戏工程师说很完美,作为服务器,其实很老的
 - [Dart](https://dart.cn/) 也不算老,但是他是最近才进入大众视野的
+
+## 自动构建
+
+- [官方文档](https://docs.github.com/cn/actions/quickstart)
